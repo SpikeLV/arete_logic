@@ -1,4 +1,4 @@
 {
-  "status": "ok", "GS": {"GS1":"IDLE", "GS2":"STARTING", "GS3":"IDLE", "GS4":"IDLE", "GS5":"IDLE", "GS6":"IDLE", "GS7":"IDLE", "GS8":"IDLE", "GS9":"IDLE", "GS10":"IDLE", "GS11":"IDLE", "GS12":"IDLE", "GS13":"IDLE", "GS14":"IDLE", "GS15":"IDLE", "GS16":"IDLE", "GS17":"IDLE", "GS18":"IDLE", "GS19":"IDLE", "GS20":"IDLE", "GS21":"IDLE", "GS22":"IDLE"},
+  "status": "ok", "GS": {"GS1":"IDLE", "GS2":"STARTING", "GS3":"RUNNING", "GS4":"IDLE", "GS5":"IDLE", "GS6":"IDLE", "GS7":"IDLE", "GS8":"IDLE", "GS9":"IDLE", "GS10":"IDLE", "GS11":"IDLE", "GS12":"IDLE", "GS13":"IDLE", "GS14":"IDLE", "GS15":"IDLE", "GS16":"IDLE", "GS17":"IDLE", "GS18":"IDLE", "GS19":"IDLE", "GS20":"IDLE", "GS21":"IDLE", "GS22":"IDLE"},
   "PT": {}
 }
